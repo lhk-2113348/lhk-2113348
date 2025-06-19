@@ -1,8 +1,5 @@
 ## 안녕하세요 QA 매니저 이현경 입니다 👋
 
-
-**lhk-2113348/lhk-2113348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 work : KG 모빌리언스  
 🌱 Goal : 많은 언어, 방식으로 개발을 하고 IT 공부 즐기기  
 💬 Email : lhk883@naver.com  

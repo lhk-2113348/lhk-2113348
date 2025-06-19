@@ -1,11 +1,11 @@
-## Hi there 👋
+## 안녕하세요 QA 매니저 이현경 입니다 👋
 
 <!--
 **lhk-2113348/lhk-2113348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 KG 모빌리언스
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
